@@ -1,0 +1,13 @@
+{
+ "validData":{
+ 	"userName":"rameshqatest123@gmail.com",
+ 	"password":"Testuser123"
+ 	},
+ 	
+"searchData":{
+ 	"keyword":"developer",
+ 	"location":"sydney"
+ 	
+ 	}
+
+}
