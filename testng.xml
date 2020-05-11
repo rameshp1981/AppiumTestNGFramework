@@ -13,7 +13,6 @@
   <parameter name="deviceName" value="Pixel_2_API_29"/>
   <classes>
   <class name="com.qa.tests.LoginTests"/>
-<!--   <class name="com.qa.tests.SearchTests"/> -->
   
   </classes>
   </test> <!-- Test -->
